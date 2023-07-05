@@ -5,7 +5,7 @@ const estudiante = require('./routes/estudiante');
 
 // CREACION DEL SERVIDOR
 const app = express();
-const PORT = 6000;
+const PORT = 2030;
 
 // CORS
 app.use(cors());
